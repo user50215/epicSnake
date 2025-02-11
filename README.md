@@ -4,7 +4,7 @@
  
 ### How to play:
   You need to have raylib installed, after you install raylib then:
-  Go to the snake/src directory, and then in console type
+  Go to the epicSnake/src directory, and then in console type
   g++ main.cpp globals.cpp Snake.cpp Food.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o epicSnake
   ./epicSnake
   
