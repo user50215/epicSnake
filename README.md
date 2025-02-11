@@ -1,5 +1,5 @@
 ### Game description:
-  **Welcome to SNAKE**
+  **Welcome to EPIC SNAKE**
   In this game you must move around and avoid hitting the walls and your body. Collect apples to grow bigger and see how high of a score you can get!
  
 ### How to play:
